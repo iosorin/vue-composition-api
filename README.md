@@ -1,7 +1,10 @@
 # Vue Composition API
+> Vue 3.0  What`s new.
 
-## VUE 3
-pros: https://share.clickup.com/p/h/2d1xt-43/854fbdf253f3701
+### Pros
+https://share.clickup.com/p/h/2d1xt-43/854fbdf253f3701
+
+### Cons
 cons: https://share.clickup.com/p/h/2d1xt-57/61ba3f96f2e502f
 
 ## Project setup
