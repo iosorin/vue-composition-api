@@ -1,12 +1,6 @@
 # Vue Composition API
-> Vue 3 research.
-
-VUE 3 Pros (in russian)
-https://share.clickup.com/p/h/2d1xt-43/854fbdf253f3701
-
-
-VUE 3 Cons (in russian)
-https://share.clickup.com/p/h/2d1xt-43/854fbdf253f3701
+> Vue 3 pros -  https://share.clickup.com/p/h/2d1xt-43/854fbdf253f3701. (in russian)
+> Vue 3 cons -  https://share.clickup.com/p/h/2d1xt-57/61ba3f96f2e502f. (in russian)
 
 ## Project setup
 ```
