@@ -1,0 +1,29 @@
+{
+    "name": "vue-composition-api",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "build": "vue-cli-service build",
+        "gh": "gh-pages -d dist",
+        "serve": "vue-cli-service serve"
+    },
+    "dependencies": {
+        "@vue/composition-api": "^0.5.0",
+        "core-js": "^3.4.4",
+        "vue": "^2.6.10"
+    },
+    "vue": {
+        "publicPath": "/vue-composition-api/"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^4.1.0",
+        "@vue/cli-service": "^4.1.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-import-resolver-alias": "^1.1.2",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-vue": "^6.2.2",
+        "vue-template-compiler": "^2.6.10"
+    }
+}
